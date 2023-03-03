@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @xXTim97Xx
 - 😁 I’m currently learning React
-- 👀 I’m interested in ...
+- 👀 I’m interested in K-Pop, Gaming, Photography, Traveling ❣️
 - 💞️ I’m looking to collaborate on React Projects
+- 👨‍🎓 I would love to learn more about Svelte and Tensorflow
 - 📫 How to reach me ...
