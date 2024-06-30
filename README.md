@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @xXTim97Xx
-- 😁 I’m currently learning React
+- 😁 I’m currently learning React, and GO with some new ML Stuff in Python
 - 👀 I’m interested in Gaming, Photography, Traveling and Coding
-- 💞️ I’m looking to collaborate on React Projects
+- 💞️ I’m looking to collaborate on exciting new Projects
 - 👨‍🎓 I would love to learn more about Svelte and Tensorflow
-- 📫 How to reach me ...
